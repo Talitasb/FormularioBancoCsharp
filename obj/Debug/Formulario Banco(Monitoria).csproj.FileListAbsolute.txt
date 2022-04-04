@@ -1,0 +1,10 @@
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Formulario Banco(Monitoria)\obj\Debug\Formulario Banco(Monitoria).csproj.AssemblyReference.cache
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Formulario Banco(Monitoria)\obj\Debug\Formulario_Banco_Monitoria_.Form1.resources
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Formulario Banco(Monitoria)\obj\Debug\Formulario_Banco_Monitoria_.Properties.Resources.resources
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Formulario Banco(Monitoria)\obj\Debug\Formulario Banco(Monitoria).csproj.GenerateResource.cache
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Formulario Banco(Monitoria)\obj\Debug\Formulario Banco(Monitoria).csproj.CoreCompileInputs.cache
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Formulario Banco(Monitoria)\bin\Debug\Formulario Banco(Monitoria).exe.config
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Formulario Banco(Monitoria)\bin\Debug\Formulario Banco(Monitoria).exe
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Formulario Banco(Monitoria)\bin\Debug\Formulario Banco(Monitoria).pdb
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Formulario Banco(Monitoria)\obj\Debug\Formulario Banco(Monitoria).exe
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Formulario Banco(Monitoria)\obj\Debug\Formulario Banco(Monitoria).pdb
